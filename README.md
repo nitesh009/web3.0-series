@@ -8,6 +8,7 @@ Learning Series Resources->
 
 
 > NOTES
+
 https://gist.github.com/tanaypratap/81c3179613ef21543c4225afed9651c2
 
 > Opensea
